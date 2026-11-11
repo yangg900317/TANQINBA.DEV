@@ -1,0 +1,599 @@
+{
+  "title": "练习曲一",
+  "subtitle": "G调吉他弹唱谱",
+  "artist": "原创",
+  "key": "G",
+  "beatsPerMeasure": 4,
+  "beatUnit": 4,
+  "tempo": 72,
+  "tuningMidi": [
+    64,
+    59,
+    55,
+    50,
+    45,
+    40
+  ],
+  "measures": [
+    {
+      "label": "前奏",
+      "chords": [
+        {
+          "beat": 0.0,
+          "name": "G"
+        }
+      ],
+      "notes": [
+        {
+          "beat": 0.0,
+          "string": 2,
+          "fret": 0,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 0.5,
+          "string": 1,
+          "fret": 3,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 1.0,
+          "string": 2,
+          "fret": 0,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 1.5,
+          "string": 1,
+          "fret": 3,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 2.0,
+          "string": 2,
+          "fret": 3,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 2.5,
+          "string": 1,
+          "fret": 3,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 3.0,
+          "string": 2,
+          "fret": 0,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 3.5,
+          "string": 1,
+          "fret": 0,
+          "duration": 0.5,
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "label": "",
+      "chords": [
+        {
+          "beat": 0.0,
+          "name": "Em"
+        }
+      ],
+      "notes": [
+        {
+          "beat": 0.0,
+          "string": 3,
+          "fret": 0,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 0.5,
+          "string": 2,
+          "fret": 0,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 1.0,
+          "string": 1,
+          "fret": 0,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 1.5,
+          "string": 2,
+          "fret": 0,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 2.0,
+          "string": 3,
+          "fret": 0,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 2.5,
+          "string": 1,
+          "fret": 0,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 3.0,
+          "string": 2,
+          "fret": 0,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 3.5,
+          "string": 1,
+          "fret": 3,
+          "duration": 0.5,
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "label": "",
+      "chords": [
+        {
+          "beat": 0.0,
+          "name": "C"
+        }
+      ],
+      "notes": [
+        {
+          "beat": 0.0,
+          "string": 3,
+          "fret": 0,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 0.5,
+          "string": 2,
+          "fret": 1,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 1.0,
+          "string": 1,
+          "fret": 0,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 1.5,
+          "string": 2,
+          "fret": 1,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 2.0,
+          "string": 3,
+          "fret": 0,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 2.5,
+          "string": 1,
+          "fret": 3,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 3.0,
+          "string": 2,
+          "fret": 1,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 3.5,
+          "string": 1,
+          "fret": 0,
+          "duration": 0.5,
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "label": "",
+      "chords": [
+        {
+          "beat": 0.0,
+          "name": "D"
+        }
+      ],
+      "notes": [
+        {
+          "beat": 0.0,
+          "string": 3,
+          "fret": 2,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 0.5,
+          "string": 2,
+          "fret": 3,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 1.0,
+          "string": 1,
+          "fret": 2,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 1.5,
+          "string": 2,
+          "fret": 3,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 2.0,
+          "string": 3,
+          "fret": 2,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 2.5,
+          "string": 1,
+          "fret": 2,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 3.0,
+          "string": 2,
+          "fret": 3,
+          "duration": 0.5,
+          "lyric": ""
+        },
+        {
+          "beat": 3.5,
+          "string": 1,
+          "fret": 5,
+          "duration": 0.5,
+          "lyric": ""
+        }
+      ]
+    },
+    {
+      "label": "主歌",
+      "chords": [
+        {
+          "beat": 0.0,
+          "name": "G"
+        }
+      ],
+      "notes": [
+        {
+          "beat": 0.0,
+          "string": 2,
+          "fret": 3,
+          "duration": 1.0,
+          "lyric": "把"
+        },
+        {
+          "beat": 1.0,
+          "string": 1,
+          "fret": 0,
+          "duration": 1.0,
+          "lyric": "弦"
+        },
+        {
+          "beat": 2.0,
+          "string": 1,
+          "fret": 3,
+          "duration": 1.0,
+          "lyric": "调"
+        },
+        {
+          "beat": 3.0,
+          "string": 1,
+          "fret": 5,
+          "duration": 1.0,
+          "lyric": "准"
+        }
+      ]
+    },
+    {
+      "label": "",
+      "chords": [
+        {
+          "beat": 0.0,
+          "name": "Em"
+        }
+      ],
+      "notes": [
+        {
+          "beat": 0.0,
+          "string": 1,
+          "fret": 3,
+          "duration": 1.0,
+          "lyric": "再"
+        },
+        {
+          "beat": 1.0,
+          "string": 1,
+          "fret": 0,
+          "duration": 1.0,
+          "lyric": "轻"
+        },
+        {
+          "beat": 2.0,
+          "string": 2,
+          "fret": 3,
+          "duration": 1.0,
+          "lyric": "轻"
+        },
+        {
+          "beat": 3.0,
+          "string": 2,
+          "fret": 0,
+          "duration": 1.0,
+          "lyric": "弹"
+        }
+      ]
+    },
+    {
+      "label": "",
+      "chords": [
+        {
+          "beat": 0.0,
+          "name": "C"
+        }
+      ],
+      "notes": [
+        {
+          "beat": 0.0,
+          "string": 1,
+          "fret": 0,
+          "duration": 1.0,
+          "lyric": "从"
+        },
+        {
+          "beat": 1.0,
+          "string": 1,
+          "fret": 3,
+          "duration": 1.0,
+          "lyric": "这"
+        },
+        {
+          "beat": 2.0,
+          "string": 1,
+          "fret": 5,
+          "duration": 1.0,
+          "lyric": "一"
+        },
+        {
+          "beat": 3.0,
+          "string": 1,
+          "fret": 3,
+          "duration": 1.0,
+          "lyric": "格"
+        }
+      ]
+    },
+    {
+      "label": "",
+      "chords": [
+        {
+          "beat": 0.0,
+          "name": "D"
+        }
+      ],
+      "notes": [
+        {
+          "beat": 0.0,
+          "string": 1,
+          "fret": 2,
+          "duration": 1.0,
+          "lyric": "慢"
+        },
+        {
+          "beat": 1.0,
+          "string": 2,
+          "fret": 3,
+          "duration": 1.0,
+          "lyric": "慢"
+        },
+        {
+          "beat": 2.0,
+          "string": 2,
+          "fret": 0,
+          "duration": 1.0,
+          "lyric": "走"
+        },
+        {
+          "beat": 3.0,
+          "string": 1,
+          "fret": 2,
+          "duration": 1.0,
+          "lyric": "过"
+        }
+      ]
+    },
+    {
+      "label": "副歌",
+      "chords": [
+        {
+          "beat": 0.0,
+          "name": "G"
+        }
+      ],
+      "notes": [
+        {
+          "beat": 0.0,
+          "string": 1,
+          "fret": 3,
+          "duration": 1.5,
+          "lyric": "一"
+        },
+        {
+          "beat": 1.5,
+          "string": 2,
+          "fret": 0,
+          "duration": 0.5,
+          "lyric": "格"
+        },
+        {
+          "beat": 2.0,
+          "string": 1,
+          "fret": 0,
+          "duration": 1.0,
+          "lyric": "一"
+        },
+        {
+          "beat": 3.0,
+          "string": 2,
+          "fret": 3,
+          "duration": 1.0,
+          "lyric": "音"
+        }
+      ]
+    },
+    {
+      "label": "",
+      "chords": [
+        {
+          "beat": 0.0,
+          "name": "Em"
+        }
+      ],
+      "notes": [
+        {
+          "beat": 0.0,
+          "string": 2,
+          "fret": 0,
+          "duration": 1.0,
+          "lyric": "慢"
+        },
+        {
+          "beat": 1.0,
+          "string": 3,
+          "fret": 0,
+          "duration": 1.0,
+          "lyric": "慢"
+        },
+        {
+          "beat": 2.0,
+          "string": 2,
+          "fret": 0,
+          "duration": 1.0,
+          "lyric": "就"
+        },
+        {
+          "beat": 3.0,
+          "string": 1,
+          "fret": 0,
+          "duration": 1.0,
+          "lyric": "会"
+        }
+      ]
+    },
+    {
+      "label": "",
+      "chords": [
+        {
+          "beat": 0.0,
+          "name": "C"
+        }
+      ],
+      "notes": [
+        {
+          "beat": 0.0,
+          "string": 1,
+          "fret": 0,
+          "duration": 1.0,
+          "lyric": "听"
+        },
+        {
+          "beat": 1.0,
+          "string": 1,
+          "fret": 3,
+          "duration": 1.0,
+          "lyric": "见"
+        },
+        {
+          "beat": 2.0,
+          "string": 2,
+          "fret": 1,
+          "duration": 1.0,
+          "lyric": "旋"
+        },
+        {
+          "beat": 3.0,
+          "string": 1,
+          "fret": 0,
+          "duration": 1.0,
+          "lyric": "律"
+        }
+      ]
+    },
+    {
+      "label": "",
+      "chords": [
+        {
+          "beat": 0.0,
+          "name": "G"
+        }
+      ],
+      "notes": [
+        {
+          "beat": 0.0,
+          "string": 1,
+          "fret": 0,
+          "duration": 1.0,
+          "lyric": "落"
+        },
+        {
+          "beat": 1.0,
+          "string": 2,
+          "fret": 3,
+          "duration": 1.0,
+          "lyric": "在"
+        },
+        {
+          "beat": 2.0,
+          "string": 1,
+          "fret": 3,
+          "duration": 1.0,
+          "lyric": "弦"
+        },
+        {
+          "beat": 3.0,
+          "string": 1,
+          "fret": 3,
+          "duration": 1.0,
+          "lyric": "上"
+        }
+      ]
+    }
+  ]
+}

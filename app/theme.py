@@ -1,0 +1,7 @@
+PAPER = "#fbf6ea"
+DESK = "#e4dece"
+INK = "#1c1c1c"
+RED = "#d0121a"
+MUTED = "#6f695e"
+LINE = "#2a2a2a"
+AMBER = "#e39b2b"
